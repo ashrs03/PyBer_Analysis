@@ -12,8 +12,7 @@ The findings reflect such ride-sharing trends which make logical sense. Further 
 
 ### Summary of Results: 
 
-![This is ride share trend for fares](./Resources/PyBer_fare_summary.png)
-
+![image](https://user-images.githubusercontent.com/42523379/194895551-ed266218-58b0-45dc-bead-167c83228c57.png)
 
 The trends of weekly fares based on city type as shown below clearly indicates that the total fares by city type is much higher for urban areas and the total fares in rural areas are the lowest. The cyclical variation in the monthly fares through out the year will be worth looking at to further understand trends. 
 
