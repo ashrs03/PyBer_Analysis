@@ -6,7 +6,7 @@ Purpose of this project was to perform analysis on the ride -sharing data by the
 
 ## Results
 
-![This is data for pyber analysis](./Resources/Ridesharing.png)
+![image](https://user-images.githubusercontent.com/42523379/194895793-79cf9832-6825-4907-8cae-83dac45533d3.png)
 
 The findings reflect such ride-sharing trends which make logical sense. Further one gets from urban cities, the less accessible ride-sharing services are and also drivers have more monopoly in smaller cities. Rural cities had the least number of rides (125) as compared to Suburban (625) and Urban (1625). The costs of ride-sharing rises as the distance from the urban cities increases. Total drivers that service the city types is however starkly spread out. While there are 78 drivers servicing the rural cities, in suburban areas there are 490 drivers and in urban cities the density of drivers is much higher at 2405. 
 
