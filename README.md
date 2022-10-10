@@ -1,23 +1,23 @@
 # PyBer_Analysis
 
-## Overview of the analysis
+## Overview 
 
 Purpose of this project was to perform analysis on the ride -sharing data by the city type. The CEO wanted to get deeper understanding on the ride-sharing data across cities in terms of total number of rides, total number of drivers, and total fare for each city type. Based on this average fare per ride and average fare per driver for city type was to be provided. Graphical illustration of the total weekly fares based on city types is also expected to understand any trends. This information will be utilized to determine which type of neighborhoods need to be funded or need improved access for ride-sharing services. 
 
 ## Results
 
-![This is data for pyber analysis](./Resources/)
+![This is data for pyber analysis](./Resources/Ridesharing.png)
 
 The findings reflect such ride-sharing trends which make logical sense. Further one gets from urban cities, the less accessible ride-sharing services are and also drivers have more monopoly in smaller cities. Rural cities had the least number of rides (125) as compared to Suburban (625) and Urban (1625). The costs of ride-sharing rises as the distance from the urban cities increases. Total drivers that service the city types is however starkly spread out. While there are 78 drivers servicing the rural cities, in suburban areas there are 490 drivers and in urban cities the density of drivers is much higher at 2405. 
 
 ### Summary of Results: 
 
-![This is ride share trend for fares](./Resources/.png)
+![This is ride share trend for fares](./Resources/PyBer_fare_summary.png)
 
 
 The trends of weekly fares based on city type as shown below clearly indicates that the total fares by city type is much higher for urban areas and the total fares in rural areas are the lowest. The cyclical variation in the monthly fares through out the year will be worth looking at to further understand trends. 
 
-### Graphical illustration: 
+### Graphical Illustration: 
 
 Summary: Based on the results, the urban cities which have higher total fares, but lowest average fare per driver appears to be an area to offer incentives for drivers in this city type. Urban cities are often expensive to live and incentives such as making a cross region journey to and from uban cities to surrounded suburban and rural settings would incentivize drivers. The average fares per driver in these areas are less than half of the suburban areas. Drivers allocation based on zipcode and cross coverage across urband and suburban areas will boost the income from fares for drivers in the urban areas. 
 
