@@ -1,10 +1,10 @@
 # PyBer_Analysis
 
-##Overview of the analysis
+## Overview of the analysis
 
 Purpose of this project was to perform analysis on the ride -sharing data by the city type. The CEO wanted to get deeper understanding on the ride-sharing data across cities in terms of total number of rides, total number of drivers, and total fare for each city type. Based on this average fare per ride and average fare per driver for city type was to be provided. Graphical illustration of the total weekly fares based on city types is also expected to understand any trends. This information will be utilized to determine which type of neighborhoods need to be funded or need improved access for ride-sharing services. 
 
-##Results
+## Results
 
 The findings reflect such ride-sharing trends which make logical sense. Further one gets from urban cities, the less accessible ride-sharing services are and also drivers have more monopoly in smaller cities. Rural cities had the least number of rides (125) as compared to Suburban (625) and Urban (1625). The costs of ride-sharing rises as the distance from the urban cities increases. Total drivers that service the city types is however starkly spread out. While there are 78 drivers servicing the rural cities, in suburban areas there are 490 drivers and in urban cities the density of drivers is much higher at 2405. 
 
