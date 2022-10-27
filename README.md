@@ -8,7 +8,7 @@ Purpose of this project was to perform analysis on the ride -sharing data by the
 
 ![image](https://user-images.githubusercontent.com/42523379/194895793-79cf9832-6825-4907-8cae-83dac45533d3.png)
 
-The findings reflect such ride-sharing trends which make logical sense. Further one gets from urban cities, the less accessible ride-sharing services are and also drivers have more monopoly in smaller cities. Rural cities had the least number of rides (125) as compared to Suburban (625) and Urban (1625). The costs of ride-sharing rises as the distance from the urban cities increases. Total drivers that service the city types is however starkly spread out. While there are 78 drivers servicing the rural cities, in suburban areas there are 490 drivers and in urban cities the density of drivers is much higher at 2405. 
+The findings reflect ride-sharing trends which make logical sense. Further one gets from urban cities, the less accessible ride-sharing services are and also drivers have more monopoly in smaller cities. Rural cities had the least number of rides (125) as compared to Suburban (625) and Urban (1625). The costs of ride-sharing rises as the distance from the urban cities increases. Total drivers that service the city types is however starkly spread out. While there are 78 drivers servicing the rural cities, in suburban areas there are 490 drivers and in urban cities the density of drivers is much higher at 2405. 
 
 ### Summary of Results: 
 
@@ -29,4 +29,4 @@ Overall in order to address the disparities in the drivers availability, fare pe
   - Offering better infrastructure and connectivity for ride-sharing services across regions
   - Look at the cluster regions to offer ride sharing services and offer cluster routes across a city with a surrounding suburban town or a suburban & rural town 
 
-Further unnderstanding income sources for drivers across city types and providing better services such as longer routes for ride sharing, will also be beneficial and of interest to drivers who provide services in the vicinity. 
+Further understanding income sources for drivers across city types and providing better services such as longer routes for ride sharing, will also be beneficial and of interest to drivers who provide services in the vicinity. 
